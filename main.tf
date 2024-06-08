@@ -30,7 +30,7 @@ resource "aws_ecs_task_defination"
 		},
 	],
 	},
-	]}
+	])
 }
 resource "aws_ecs_service"
 "app_service"{
